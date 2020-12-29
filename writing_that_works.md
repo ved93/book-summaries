@@ -4,8 +4,9 @@
 - [Chapter 3: I love my computer!](#chapter-3-i-love-my-computer)
 - [Chapter 4: E-mail](#chapter-4-e-mail)
 - [Chapter 5: Memos and letters that get things done](#chapter-5-memos-and-letters-that-get-things-done)
-- [Writing for an audience- Presentation and Speeches](#writing-for-an-audience--presentation-and-speeches)
+- [Chapter 6: Writing for an audience- Presentation and Speeches](#chapter-6-writing-for-an-audience--presentation-and-speeches)
   - [The Pyramid principle](#the-pyramid-principle)
+- [Chapter 7: Plans and reports that make things happen](#chapter-7-plans-and-reports-that-make-things-happen)
 
 This is the book that I am reading and it has some valuable lessons for writing in business world
 
@@ -56,7 +57,7 @@ Email rules by Electronic Art CEO for its employees
 3. Be specific about next step
 4. Read Churchil's memo. 
 
-### Writing for an audience- Presentation and Speeches
+### Chapter 6: Writing for an audience- Presentation and Speeches
 The principal form of presentation in most orgs has become the "deck", jargon for page after page of bulletedpoints serving as a framework for spoken elaboration.  
 Reducing the issue to "its pulsing essence" is what a well done deck does best. Only key points on each page, as few words as possible. But the points on page must point to something- some *action*.
 
@@ -81,6 +82,42 @@ Within that pyramid structure, the ideas will relate vertically- in that a point
 4. Involve the audience.
 5. Finish Strong
    - Close with a summary and a strong restatement of your proposition or recommendation. For major presentations, look for memorable, dramatic close.
+
+**Sppeches that make a point**   
+Most people have terrible time knowing where to begin in writing a speech. The answer is not to hunt for a great opening. Not to ask around for the latest joke. The place is to think about who is in your audience and decide what you want to say to them.   
+Decide what single point you want them to take away. Then start writing. You can put down anything that gets you into what you want to talk about, no matter how clumsy it seems. There's time to polish it later. The point is to get rolling. 
+Immerse yourself in your subject long before you write. Read about it, make notes of lines that might be used, illustrative stories, items in the news that bear upon it. All will help you settle on a theme. The next step is a broad outline, with three or four major points and examples or subpointsunder each. In writing a speech, it helps to think about addressing one individual rather than a faceless audience. Another tricks that often works : Cross out first several paragraphs. You will often find your opening line halfway down the first page.
+
+1. Frame the subject/Title with a point of view: 
+   - Your title shoudl reflkect your point of view. Ideas that you believe in make good speeches. Tom peters(search of excellence) advises not to accept any topic that you dont feel strongly about. An audience's biggest turn on is the speaker's obvious enthusiasm.  
+2. Start fast
+   - Start with that single point you want your audience to take away
+3. Write your speech to be spoken: Think of it as conversation with a friend  
+4. Leave them thinking
+5. Making it sound easy:
+   - The only way to do this is to *rehearse*. Rehearse what you have to say over and over until you know it almost by heart. The better you know your speech , the more spontaneous you will sound. And the more confident.Great presenters and speakers make it all sound so easy and so natural that one assumes it just pours out of them. IT ALMOST NEVER DOES.
+
+### Chapter 7: Plans and reports that make things happen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
