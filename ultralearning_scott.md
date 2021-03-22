@@ -4,6 +4,7 @@
 - [Chapter 3: How to become the ultralearner](#chapter-3-how-to-become-the-ultralearner)
 - [Principle 1: Metalearning](#principle-1-metalearning)
 - [Principle 2: Focus](#principle-2-focus)
+- [Principle 3: Directness](#principle-3-directness)
 
 
 ### Intro
@@ -39,6 +40,16 @@ The emphasize/Exclude method
 Law of diminishing return
 
 ### Principle 2: Focus
+Author talks about how focus is necessary and how can you have the focus. He talks about the three problems in focus:  
+1. Procastination: Pomodoro techniques and 5 minute rule are the solution
+2. Failing to sustain focus(Getting distracted): Scott talks about Flow and deliberate practice and highlight the problem with flow state. There are three sources that causes focus to break dkwn :
+   - Your environment
+   - Your task: certain activities, due to their nature, are harder to focus than others. i.e. watching MIT videos are easier than to solve the problems
+   - Mind: should be calm and tension free  
+3. Failing to create teh write kiond of focus: There is an interesting reaserch about arousal vs task complexity. Activities like games require high arousal. High arousal creates high alertness. Athlete rquire this kind of concentration to shoot a basketball propertly, where the task is fairly simple but requires concentration to execute properly.More complext task such as solving math problemor writing essays require a relaxed kimd of focus.
+
+### Principle 3: Directness
+
 
 
 
